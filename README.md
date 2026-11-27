@@ -16,3 +16,12 @@ Branches allow developers to work on different features independently.
 
 ## Pull Request
 A Pull Request is used to propose changes and review code before merging.
+
+## Git Workflow
+
+1. Create a repository.
+2. Create a new branch.
+3. Make changes to files.
+4. Commit the changes.
+5. Push changes to GitHub.
+6. Create a Pull Request.
